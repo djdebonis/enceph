@@ -1,0 +1,45 @@
+type,time (mya),endocranial_volume (cc^3),standard deviation,predicted_body_mass (kg),gender,other,source_name,source_link
+sahelanthropus_tchadensis,7,360,,,,,The 82nd Annual Meeting of the American Association of Physical Anthropologists (2013),https://meeting.physanth.org/program/2013/session16/bienvenu-2013-the-endocast-of-sahelanthropus-tchadensis-the-earliest-known-hominid-7-ma-chad.html
+sahelanthropus_tchadensis,7,370,,,,,The 82nd Annual Meeting of the American Association of Physical Anthropologists (2013),https://meeting.physanth.org/program/2013/session16/bienvenu-2013-the-endocast-of-sahelanthropus-tchadensis-the-earliest-known-hominid-7-ma-chad.html
+australopithecus_afarensis,3.9,375,,,,,Genus Australopithecus,http://web.missouri.edu/~flinnm/courses/mah/factfiles/australopithecus.htm
+australopithecus_afarensis,3,550,,,,,Genus Australopithecus,http://web.missouri.edu/~flinnm/courses/mah/factfiles/australopithecus.htm
+australopithecus_africanus,2.75,485,,27.85,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+australopithecus_africanus,2.75,428,,26.638,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+australopithecus_africanus,3.3,405,,,,,Genus Australopithecus,http://web.missouri.edu/~flinnm/courses/mah/factfiles/australopithecus.htm
+australopithecus_africanus,2.1,440,,,,,Genus Australopithecus,http://web.missouri.edu/~flinnm/courses/mah/factfiles/australopithecus.htm
+,,,,,,,,
+australopithecus_aethiopicus,2.5,410,,36.666,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+australopithecus_boisei,1.8,530,,57.603,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+australopithecus_boisei,1.7,500,,31.979,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+australopithecus_boisei,1.7,510,,69.843,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_rudolfensis,1.89,752,,45.597,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_habilis,1.89,509,,34.883,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_habilis,1.8,594,,30.286,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_erectus,1.78,850,,59.2,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_erectus,1.57,804,,57.458,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_erectus,1.53,909,,59.939,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_erectus,0.7,1004,,76.062,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_erectus,0.42,1030,,65.649,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_erectus,0.42,1015,,51.796,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.25,1110,,60.513,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.15,1285,,118.89,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.12,1245,,66.573,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.1,1280,,95.98,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.09,1305,,80.481,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.07,1689,,99.507,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.05,1200,,93.432,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.047,1625,,100.237,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.041,1750,,84.481,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens_archaic,0.041,1565,,81.19,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.1,1531,,64.652,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.08,1520,,70.166,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.03,1600,,59.407,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.026,1580,,75.313,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.02,1550,,80.775,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.02,1375,,40.405,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.015,1380,,43.241,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.015,1500,,83.635,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.015,1290,,71.312,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.014,1550,,48.915,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.01,1500,,68.162,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214
+homo_sapiens,0.008,1540,,50.182,M,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214

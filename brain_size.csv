@@ -1,6 +1,12 @@
 type,time (mya),endocranial_volume (cc^3),standard deviation,predicted_body_mass (kg),gender,other,source_name,source_link
 sahelanthropus_tchadensis,7,360,,,,,The 82nd Annual Meeting of the American Association of Physical Anthropologists (2013),https://meeting.physanth.org/program/2013/session16/bienvenu-2013-the-endocast-of-sahelanthropus-tchadensis-the-earliest-known-hominid-7-ma-chad.html
+sahelanthropus_tchadensis,6,380,,,,,Introduction to Physical Anthropology,textbook
+sahelanthropus_tchadensis,6,320,,,,,Introduction to Physical Anthropology,textbook
+sahelanthropus_tchadensis,6,350,,,,,Introduction to Physical Anthropology,textbook
 sahelanthropus_tchadensis,7,370,,,,,The 82nd Annual Meeting of the American Association of Physical Anthropologists (2013),https://meeting.physanth.org/program/2013/session16/bienvenu-2013-the-endocast-of-sahelanthropus-tchadensis-the-earliest-known-hominid-7-ma-chad.html
+ardipithecus_ramidus,4.4,350,,,,,Introduction to Physical Anthropology,textbook
+ardipithecus_ramidus,4.4,300,,,,,Introduction to Physical Anthropology,textbook
+australopithecus_afarensis,,,,,,,,
 australopithecus_afarensis,3.9,375,,,,,Genus Australopithecus,http://web.missouri.edu/~flinnm/courses/mah/factfiles/australopithecus.htm
 australopithecus_afarensis,3,550,,,,,Genus Australopithecus,http://web.missouri.edu/~flinnm/courses/mah/factfiles/australopithecus.htm
 australopithecus_africanus,2.75,485,,27.85,F,,The evolution of body mass and relative brain size in fossil hominids,https://www-sciencedirect-com.aurarialibrary.idm.oclc.org/science/article/pii/S0047248496900214

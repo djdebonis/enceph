@@ -19,6 +19,10 @@ These factorial complexities make it clear that there is no one way to predict i
 
 The goal of this project is to explore this hominin evolution through mathematics (statistical analyses) and code. Then, we will take what we infer (since we <i>know</i> very little) about human evolution, and develop/support hypotheses about the causes and results of this accelerated brain evolution.
 
-It is clear that brain size is a directional selection, meaning that natural selection selects for larger brains, and as time progresses, the mean, and thus the entire (normal) distribution, shifts. This is clearly due to the benefits of larger brain capacity: larger brains (in hominins) are correlated with higher intelligence (more space to power and store neurons). Figure 1 displays an example of a directional distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
+Due to the extreme and exponential growth of hominin brain size in the past 7 million years, it is clear that brain size is a directional selection, meaning that natural selection selects for larger brains, and as time progresses, the mean, and thus the entire (normal) distribution, shifts. This is clearly due to the benefits of larger brain capacity: larger brains (in hominins) are correlated with higher intelligence (more space to power and store neurons). Figure 1 displays an example of a directional distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
 
-![dist](./distribution.png)
+![directional_distribution](./distribution.png)
+
+However, I also began to wonder what other observations could be made about the data. My initial hypothesis is that brain size is not only a directional selection, but also a <i>stabilizing selection</i>. A stabilizing selection occurs when the distribution shifts in favor of the mean; in other words, less variance is preferred over more variance. Figure 2 displays an example of a stabilizing distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
+
+![stabilizing_distribution](./stabilizing_distribution.png)

@@ -23,6 +23,6 @@ Due to the extreme and exponential growth of hominin brain size in the past 7 mi
 
 ![directional_distribution](./distribution.png)
 
-However, I also began to wonder what other observations could be made about the data. My initial hypothesis is that brain size is not only a directional selection, but also a <i>stabilizing selection</i>. A stabilizing selection occurs when the distribution shifts in favor of the mean; in other words, less variance is preferred over more variance. Figure 2 displays an example of a stabilizing distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
+However, I also began to wonder what other observations could be made about the data. My initial hypothesis is that brain size is not only a directional selection, but also a <i>stabilizing selection</i>. A stabilizing selection occurs when the distribution shifts in favor of the mean; in other words, less variance is preferred over more variance for a trait in a population. Figure 2 displays an example of a stabilizing distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
 
 ![stabilizing_distribution](./stabilizing_distribution.png)

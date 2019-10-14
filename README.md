@@ -19,6 +19,6 @@ These factorial complexities make it clear that there is no one way to predict i
 
 The goal of this project is to explore this hominin evolution through mathematics (statistical analyses) and code. Then, we will take what we infer (since we <i>know</i> very little) about human evolution, and develop/support hypotheses about the causes and results of this accelerated brain evolution.
 
-It is clear that brain size is a directional selection, meaning that natural selection selects for larger brains, and as time progresses, the mean, and thus the entire (normal) distribution shifts. This is clearly due to the benefits of larger brain capacity: correlation with higher intelligence and more space to power and store neurons. Figure 1 displays a an example of a directional distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
+It is clear that brain size is a directional selection, meaning that natural selection selects for larger brains, and as time progresses, the mean, and thus the entire (normal) distribution, shifts. This is clearly due to the benefits of larger brain capacity: larger brains (in hominins) are correlated with higher intelligence (more space to power and store neurons). Figure 1 displays an example of a directional distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
 
 ![dist](./distribution.png)

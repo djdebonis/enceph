@@ -26,3 +26,7 @@ Due to the extreme and exponential growth of hominin brain size in the past 7 mi
 However, I also began to wonder what other observations could be made about the data. My initial hypothesis is that brain size is not only a directional selection, but also a <i>stabilizing selection</i>. A stabilizing selection occurs when the distribution shifts in favor of the mean; in other words, less variance is preferred over more variance for a trait in a population. Figure 2 displays an example of a stabilizing distribution, where the orange line depicts the original/earlier distribution and the blue line depicts the derived/new distribution:
 
 ![stabilizing_distribution](./stabilizing_distribution.png)
+
+## Notes on Data Collection
+
+This data was collected from primary, secondary, and tertiary sources, ranging anywhere from scholarly articles to textbooks and lecture notes. For this reason, the data will likely contain repeats of the same data. The data also likely contains different estimates on the endocranial volume of the same specemins; (this process, after all, is highly subjective, especially when the fossils are incomplete). Finally, when a range was presented, I inserted the high and low values, as well as a mean of the two. None of these are by any means good data collection practice, and I am aware of this, but this project is for exploration, and its nature is not decisive nor conclusive. I would love to hear advice on the ways you would reccomend that I increase the data set size with better practices. 
